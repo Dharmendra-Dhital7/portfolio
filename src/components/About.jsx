@@ -56,9 +56,10 @@ function About() {
 
           <div className="mt-6">
             <a
-              href="/Dharmendra_Resume.pdf" // add your resume later
+              href="/CV_Dharmendra.docx" // add your resume later
               className="inline-block bg-indigo-600 hover:bg-indigo-700 text-white font-semibold px-6 py-3 rounded-lg shadow-md transition"
               download
+              target="_blank"
             >
               Download Resume
             </a>
